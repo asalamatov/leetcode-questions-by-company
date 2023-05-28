@@ -2,38 +2,38 @@
 
 A list of LeetCode questions with the corresponding companies sorted by difficulty level.
 
-|+| **ID** | **Name** | **Difficulty.Level** | **Companies** |
-| --- | --- | --- | --- |
-| 717 | 1-bit and 2-bit Characters |  Easy | Google |
-| 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft |
-| 258 | Add Digits |  Easy | Adobe, Apple |
-| 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft |
-| 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook |
-| 844 | Backspace String Compare |  Easy | Google |
-| 110 | Balanced Binary Tree |  Easy | Amazon, Google |
-| 682 | Baseball Game |  Easy | Amazon |
-| 121 | Best Time to Buy and Sell Stock |  Easy | Facebook |
-| 122 | Best Time to Buy and Sell Stock II |  Easy | Alibaba |
-| 595 | Big Countries |  Easy | Adobe, Amazon, Google |
-| 704 | Binary Search |  Easy | Google |
-| 107 | Binary Tree Level Order Traversal II |  Easy | Microsoft |
-| 257 | Binary Tree Paths |  Easy | Amazon, Facebook, Microsoft |
-| 859 | Buddy Strings |  Easy | Google |
-| 70 | Climbing Stairs |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft |
-| 270 | Closest Binary Search Tree Value |  Easy | Google |
-| 175 | Combine Two Tables |  Easy | Adobe, Amazon, Apple, Facebook, Google |
-| 427 | Construct Quad Tree |  Easy | Apple |
-| 217 | Contains Duplicate |  Easy | Amazon |
-| 219 | Contains Duplicate II |  Easy | Adobe, Google |
-| 405 | Convert a Number to Hexadecimal |  Easy | Facebook |
-| 538 | Convert BST to Greater Tree |  Easy | Amazon |
-| 108 | Convert Sorted Array to Binary Search Tree |  Easy | Adobe, Apple |
-| 38 | Count and Say |  Easy | Adobe, Amazon, Google, Microsoft |
-| 696 | Count Binary Substrings |  Easy | Adobe |
-| 204 | Count Primes |  Easy | Adobe, Amazon, Apple, Google, Microsoft |
-| 183 | Customers Who Never Order |  Easy | Amazon |
-| 237 | Delete Node in a Linked List |  Easy | Apple |
-| 706 | Design HashMap |  Easy | Adobe, Amazon, Apple, Microsoft |
+|**Done**| **ID** | **Name** | **Difficulty.Level** | **Companies** |
+| | --- | --- | --- | --- |
+| | 717 | 1-bit and 2-bit Characters |  Easy | Google |
+| | 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft |
+| | 258 | Add Digits |  Easy | Adobe, Apple |
+| | 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft |
+| | 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook |
+| | 844 | Backspace String Compare |  Easy | Google |
+| | 110 | Balanced Binary Tree |  Easy | Amazon, Google |
+| | 682 | Baseball Game |  Easy | Amazon |
+| | 121 | Best Time to Buy and Sell Stock |  Easy | Facebook |
+| | 122 | Best Time to Buy and Sell Stock II |  Easy | Alibaba |
+| | 595 | Big Countries |  Easy | Adobe, Amazon, Google |
+| | 704 | Binary Search |  Easy | Google |
+| | 107 | Binary Tree Level Order Traversal II |  Easy | Microsoft |
+| | 257 | Binary Tree Paths |  Easy | Amazon, Facebook, Microsoft |
+| | 859 | Buddy Strings |  Easy | Google |
+| | 70 | Climbing Stairs |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft |
+| | 270 | Closest Binary Search Tree Value |  Easy | Google |
+| | 175 | Combine Two Tables |  Easy | Adobe, Amazon, Apple, Facebook, Google |
+| | 427 | Construct Quad Tree |  Easy | Apple |
+| | 217 | Contains Duplicate |  Easy | Amazon |
+| | 219 | Contains Duplicate II |  Easy | Adobe, Google |
+| | 405 | Convert a Number to Hexadecimal |  Easy | Facebook |
+| | 538 | Convert BST to Greater Tree |  Easy | Amazon |
+| | 108 | Convert Sorted Array to Binary Search Tree |  Easy | Adobe, Apple |
+| | 38 | Count and Say |  Easy | Adobe, Amazon, Google, Microsoft |
+| | 696 | Count Binary Substrings |  Easy | Adobe |
+| | 204 | Count Primes |  Easy | Adobe, Amazon, Apple, Google, Microsoft |
+| | 183 | Customers Who Never Order |  Easy | Amazon |
+| | 237 | Delete Node in a Linked List |  Easy | Apple |
+| | 706 | Design HashMap |  Easy | Adobe, Amazon, Apple, Microsoft |
 | 707 | Design Linked List |  Easy | Amazon |
 | 543 | Diameter of Binary Tree |  Easy | Adobe |
 | 690 | Employee Importance |  Easy | Google |
